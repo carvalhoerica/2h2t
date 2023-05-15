@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.vermelha{
+    width: 6.25%;
+    height: 100%;
+    background-color: red;
+}
+.verde{
+    width: 6.25%;
+    height: 100%;
+    background-color: green;
+}
+.azul{
+    width: 6.25%;
+    height: 100%;
+    background-color: blue;
+}
+.linha {
+    width: 100%;
+    height: 10%;
+    display: flex;
+}
